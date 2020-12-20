@@ -3,7 +3,7 @@ PickerPY
 
 A Password recovery utility for password protected Zip &amp; 7zip archives.
 
-Website: http://shouravbr.com/pickerpy
+Website: http://shouravbr.github.io/pickerpy
 
 It's written with Python and TK GUI framework.
 
