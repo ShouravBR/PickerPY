@@ -9,7 +9,7 @@ It's written with Python and TK GUI framework.
 
 Download
 --------
-Windows (zip): http://shouravbr.com/?attachment_id=72&dd
+Windows (zip): http://goo.gl/6V6bbz (Drive)
 
 Source (pyw): https://raw.github.com/ShouravBR/PickerPY/master/pickerpy.pyw
 
